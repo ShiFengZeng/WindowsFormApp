@@ -1,0 +1,9 @@
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\bin\Debug\CollisionDiscolorationBall.exe.config
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\bin\Debug\CollisionDiscolorationBall.exe
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\bin\Debug\CollisionDiscolorationBall.pdb
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\obj\Debug\CollisionDiscolorationBall.csprojResolveAssemblyReference.cache
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\obj\Debug\CollisionDiscolorationBall.Form1.resources
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\obj\Debug\CollisionDiscolorationBall.Properties.Resources.resources
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\obj\Debug\CollisionDiscolorationBall.csproj.GenerateResource.Cache
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\obj\Debug\CollisionDiscolorationBall.exe
+c:\users\a53\documents\visual studio 2017\Projects\CollisionDiscolorationBall\CollisionDiscolorationBall\obj\Debug\CollisionDiscolorationBall.pdb
