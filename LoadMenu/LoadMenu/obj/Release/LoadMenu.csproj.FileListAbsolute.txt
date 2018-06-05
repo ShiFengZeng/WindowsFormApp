@@ -1,0 +1,9 @@
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\bin\Release\LoadMenu.exe.config
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\bin\Release\LoadMenu.exe
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\bin\Release\LoadMenu.pdb
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Release\LoadMenu.csprojResolveAssemblyReference.cache
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Release\LoadMenu.Form1.resources
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Release\LoadMenu.Properties.Resources.resources
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Release\LoadMenu.csproj.GenerateResource.Cache
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Release\LoadMenu.exe
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Release\LoadMenu.pdb

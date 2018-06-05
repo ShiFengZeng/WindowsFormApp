@@ -1,0 +1,11 @@
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Form1.resources
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+c:\users\a53\documents\visual studio 2017\Projects\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb

@@ -1,0 +1,9 @@
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\bin\Debug\Tower_of_Hanoi.exe.config
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\bin\Debug\Tower_of_Hanoi.exe
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\bin\Debug\Tower_of_Hanoi.pdb
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\obj\Debug\Tower_of_Hanoi.csprojResolveAssemblyReference.cache
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\obj\Debug\Tower_of_Hanoi.Form1.resources
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\obj\Debug\Tower_of_Hanoi.Properties.Resources.resources
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\obj\Debug\Tower_of_Hanoi.csproj.GenerateResource.Cache
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\obj\Debug\Tower_of_Hanoi.exe
+c:\users\a53\documents\visual studio 2017\Projects\Tower_of_Hanoi\Tower_of_Hanoi\obj\Debug\Tower_of_Hanoi.pdb

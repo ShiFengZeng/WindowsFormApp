@@ -1,0 +1,8 @@
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\bin\Debug\LoadMenu.exe.config
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\bin\Debug\LoadMenu.exe
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\bin\Debug\LoadMenu.pdb
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Debug\LoadMenu.Form1.resources
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Debug\LoadMenu.Properties.Resources.resources
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Debug\LoadMenu.csproj.GenerateResource.Cache
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Debug\LoadMenu.exe
+C:\Users\A53\documents\visual studio 2017\Projects\LoadMenu\LoadMenu\obj\Debug\LoadMenu.pdb
