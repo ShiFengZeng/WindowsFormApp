@@ -1,0 +1,9 @@
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\bin\Debug\BigLottery.exe.config
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\bin\Debug\BigLottery.exe
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\bin\Debug\BigLottery.pdb
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\obj\Debug\BigLottery.csprojResolveAssemblyReference.cache
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\obj\Debug\BigLottery.Form1.resources
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\obj\Debug\BigLottery.Properties.Resources.resources
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\obj\Debug\BigLottery.csproj.GenerateResource.Cache
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\obj\Debug\BigLottery.exe
+c:\users\a53\documents\visual studio 2017\Projects\BigLottery\BigLottery\obj\Debug\BigLottery.pdb
